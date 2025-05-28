@@ -1,0 +1,1 @@
+This commissioned project is called StudentInfoSystem: an application-based student information system for Rizal High School. It is a simplified primarily used for highschool student and teachers. This project was made for academic research and purposes.
